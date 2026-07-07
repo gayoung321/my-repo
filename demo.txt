@@ -1,7 +1,4 @@
 demodm
-<<<<<<< HEAD
 dddd
 d
-=======
 ffffd
->>>>>>> d932ea1 (demo.txt)
